@@ -1,13 +1,13 @@
 
-# List of .ACTOR One Word Domain Names (3,244)
+# List of .ACTOR One Word Domain Names (3,382)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/actor-oneword-domains.svg?style=flat)]() [![3,244 .ACTOR one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C244-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/actor-oneword-domains.svg?style=flat)]() [![3,382 .ACTOR one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C382-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential .ACTOR one-word domains still available to buy.
 
 This dataset contains 1,000 .ACTOR one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.ACTOR one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=description.top) (3,244) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.ACTOR one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=description.top) (3,382) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,48 +15,48 @@ If you want to search & filters the complete database of [.ACTOR one word domain
     <a href="https://github.com/UniqueDomains/actor-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/actor-oneword-domains/blob/main/all.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/actor-oneword-domains/blob/main/all.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.24K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.38K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Created | Expires | Actions                                                                                                                                                                                |
-| ---------------- | --------- | -------- | ------ | ------ | ------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| abactinal.actor  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/cebd292e-f044-437e-9c25-fd23e9bba420?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abaft.actor      | available | 43       | 2%     | 5      |         |         | [Analyse](https://unique.domains/domain/0c65f821-2c90-4e8e-a810-12dd6a9e5ebd?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abandoned.actor  | available | 58       | 10%    | 9      |         |         | [Analyse](https://unique.domains/domain/12a9e258-9b79-46fc-82dd-1b325fe25bd2?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abashed.actor    | available | 60       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/1f4baf32-2d43-478c-b34c-2d9ba2cc650f?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abasic.actor     | available | 54       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/ce3d17f3-2b94-4b5e-adae-be781de4a3d3?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abatable.actor   | available | 54       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/05bbfaaa-8b51-414d-a827-3759ad789e02?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abatic.actor     | available | 54       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/c034d1b2-c69d-4a82-adf5-dcfcdac12460?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abaxial.actor    | available | 54       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/d5fa7465-53c3-4fa2-b2b2-13ea2d0203b6?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abbatial.actor   | available | 50       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/296c4948-8a0f-4fe9-a53c-46bffd11c485?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abdicable.actor  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/0a4cae41-928b-487d-abb4-c1b8cb480ef3?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abdominal.actor  | available | 82       | 2%     | 9      |         |         | [Analyse](https://unique.domains/domain/8d7fa13e-7236-4445-a50a-f85e6f2c5f09?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abdominous.actor | available | 56       | 1%     | 10     |         |         | [Analyse](https://unique.domains/domain/cbdb14a9-2dfb-406d-a846-3f1cb48e1167?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abducens.actor   | available | 54       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/c07228a1-794e-42c8-a24d-d9972afc18c3?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abducent.actor   | available | 68       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/d6ea1299-b9f2-4f17-9258-47c9fa7418ba?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abducting.actor  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/65541554-eea9-43c1-92db-cd1103e5d8bc?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abenaki.actor    | available | 82       | 3%     | 7      |         |         | [Analyse](https://unique.domains/domain/a34c6b74-31f9-43a4-9152-1f04067ec548?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| aberdonian.actor | available | 68       | 1%     | 10     |         |         | [Analyse](https://unique.domains/domain/b242b4ca-ed47-4692-96f1-85072ecc2fa4?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| aberrant.actor   | available | 74       | 7%     | 8      |         |         | [Analyse](https://unique.domains/domain/f2fc3077-8151-4fb4-8d44-f2d0fbabc778?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abeyant.actor    | available | 56       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/f221e2eb-a85c-4ff2-b292-21bfc2aa48ab?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abhorrent.actor  | available | 54       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/f5a3567b-1a56-4cb5-bf5f-f3bd564e30e6?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abiding.actor    | available | 106      | 5%     | 7      |         |         | [Analyse](https://unique.domains/domain/d0478a4d-f183-4029-8d93-c8c6ca5a684a?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abient.actor     | available | 54       | 1%     | 6      |         |         | [Analyse](https://unique.domains/domain/74d1147a-d7fe-47e0-832c-17f163933bd4?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abject.actor     | available | 94       | 8%     | 6      |         |         | [Analyse](https://unique.domains/domain/b582e261-068c-4473-b605-5c0232299e1e?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abkhas.actor     | available | 68       | 1%     | 6      |         |         | [Analyse](https://unique.domains/domain/d48ee4d2-87cc-4b58-abce-1c46eb507079?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abkhasian.actor  | available | 78       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/94321407-4039-4d7a-a324-af504e0e4e58?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abkhaz.actor     | available | 82       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/1d86aca0-eb2a-4b33-bb69-1216f01fcba9?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| abkhazian.actor  | available | 78       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/7e534ae3-2080-49ec-985a-bf1294a20438?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| ablated.actor    | available | 52       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/1a2086c7-0345-4209-8f1b-e6067db288f0?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| ablative.actor   | available | 68       | 3%     | 8      |         |         | [Analyse](https://unique.domains/domain/1b248704-6ff8-48ef-a0fa-aa88938509e1?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
-| ablaze.actor     | available | 72       | 6%     | 6      |         |         | [Analyse](https://unique.domains/domain/18d2b389-7bcf-4aaa-a0e1-a80f6518142c?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires | Actions                                                                                                                                                                                |
+| ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| abactinal.actor  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/cebd292e-f044-437e-9c25-fd23e9bba420?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abaft.actor      | available | 43       | 2%     | 5      |           |         |         | [Analyse](https://unique.domains/domain/0c65f821-2c90-4e8e-a810-12dd6a9e5ebd?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abandoned.actor  | available | 58       | 10%    | 9      |           |         |         | [Analyse](https://unique.domains/domain/12a9e258-9b79-46fc-82dd-1b325fe25bd2?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abashed.actor    | available | 60       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/1f4baf32-2d43-478c-b34c-2d9ba2cc650f?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abasic.actor     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/ce3d17f3-2b94-4b5e-adae-be781de4a3d3?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abatable.actor   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/05bbfaaa-8b51-414d-a827-3759ad789e02?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abatic.actor     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/c034d1b2-c69d-4a82-adf5-dcfcdac12460?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abaxial.actor    | available | 54       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/d5fa7465-53c3-4fa2-b2b2-13ea2d0203b6?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abbatial.actor   | available | 50       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/296c4948-8a0f-4fe9-a53c-46bffd11c485?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abdicable.actor  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/0a4cae41-928b-487d-abb4-c1b8cb480ef3?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abdominal.actor  | available | 82       | 2%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/8d7fa13e-7236-4445-a50a-f85e6f2c5f09?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abdominous.actor | available | 56       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/cbdb14a9-2dfb-406d-a846-3f1cb48e1167?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abducens.actor   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/c07228a1-794e-42c8-a24d-d9972afc18c3?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abducent.actor   | available | 68       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/d6ea1299-b9f2-4f17-9258-47c9fa7418ba?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abducting.actor  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/65541554-eea9-43c1-92db-cd1103e5d8bc?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abenaki.actor    | available | 82       | 3%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/a34c6b74-31f9-43a4-9152-1f04067ec548?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| aberdonian.actor | available | 68       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/b242b4ca-ed47-4692-96f1-85072ecc2fa4?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| aberrant.actor   | available | 74       | 7%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/f2fc3077-8151-4fb4-8d44-f2d0fbabc778?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abeyant.actor    | available | 56       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/f221e2eb-a85c-4ff2-b292-21bfc2aa48ab?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abhorrent.actor  | available | 54       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/f5a3567b-1a56-4cb5-bf5f-f3bd564e30e6?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abiding.actor    | available | 106      | 5%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/d0478a4d-f183-4029-8d93-c8c6ca5a684a?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abient.actor     | available | 54       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/74d1147a-d7fe-47e0-832c-17f163933bd4?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abject.actor     | available | 94       | 8%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/b582e261-068c-4473-b605-5c0232299e1e?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abkhas.actor     | available | 68       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/d48ee4d2-87cc-4b58-abce-1c46eb507079?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abkhasian.actor  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/94321407-4039-4d7a-a324-af504e0e4e58?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abkhaz.actor     | available | 82       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/1d86aca0-eb2a-4b33-bb69-1216f01fcba9?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| abkhazian.actor  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/7e534ae3-2080-49ec-985a-bf1294a20438?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| ablated.actor    | available | 52       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/1a2086c7-0345-4209-8f1b-e6067db288f0?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| ablative.actor   | available | 68       | 3%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/1b248704-6ff8-48ef-a0fa-aa88938509e1?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
+| ablaze.actor     | available | 72       | 6%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/18d2b389-7bcf-4aaa-a0e1-a80f6518142c?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.domain.analyze) |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/actor-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/actor-oneword-domains/blob/main/all.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/actor-oneword-domains/blob/main/all.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.24K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.38K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -66,12 +66,24 @@ If you want to search & filters the complete database of [.ACTOR one word domain
 
 - **Domain Name**: High-quality, single-word .ACTOR domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
-- **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
+- **Attract.**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
 - **Length**: The word length of the domain (without the TLD)
+- **Registrar**: The registrar of the domain.
 - **Created**: The date the domain was created.
 - **Expires**: The date the domain expires.
-- **Registrar**: The registrar of the domain.
+
+**Online Database**:
+
+- Estimated value (from GoDaddy)
+- Business ideas (from GPT-5 highest version + web search)
+
+SEO analysis (on existing domains)
+- Domain Rating
+- Backlinks
+- Traffic vokume
+- Referring domains
+- Organic keywords
 
 # More One Word Domains
 
@@ -79,18 +91,18 @@ If you want to search & filters the complete database of [.ACTOR one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,429       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 44,507       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 2,881,227    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 19,522       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 45,166       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,936,903    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 3,085        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
-| .ACADEMY       | 2,840        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
-| .ACCOUNTANT    | 3,299        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
-| .ACCOUNTANTS   | 3,259        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
-| .ACTOR         | 3,244        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .AC            | 3,176        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,934        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 3,446        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 3,402        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 3,382        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
 | .ADULT         | 3,259        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
 | .AG            | 3,131        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 2,504        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
