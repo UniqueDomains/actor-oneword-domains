@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.ACTOR one word domain
 | aaron.actor      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.actor  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.actor      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.actor  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.actor  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.actor    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.actor     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.actor   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.ACTOR one word domain
 | abbatial.actor   | available | 50       | 1%     | 8      |           |         |         |
 | abc.actor        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.actor  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.actor  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.actor  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.actor | available | 56       | 1%     | 10     |           |         |         |
 | abducens.actor   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.actor   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.ACTOR one word domain
 | aberdonian.actor | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.actor   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.actor    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.actor  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.actor  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.actor    | available | 106      | 5%     | 7      |           |         |         |
 | abient.actor     | available | 54       | 1%     | 6      |           |         |         |
 | ability.actor    | available | 92       | 18%    | 7      |           |         |         |
