@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACTOR one-word domains still available to buy.
 
-This dataset contains 4,834 .ACTOR one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,833 .ACTOR one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACTOR one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=description.top) (4,835) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.ACTOR one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
