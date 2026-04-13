@@ -69,7 +69,7 @@ print(df.head())
 | enterprise.actor | premium   | $260      | $260          | 68             | 61     | 10     | namecheap        |
 | easy.actor       | available | $19.99    | $58.99        | 128            | 68     | 4      | name.com         |
 | sex.actor        | resell    | —         | —             | 98             | 59     | 3      | GoDaddy.com, LLC |
-| free.actor       | premium   | $82.50    | $82.50        | 88             | 59     | 4      | name.com         |
+| free.actor       | premium   | $82.50    | $82.50        | 88             | 57     | 4      | name.com         |
 | limitless.actor  | available | $19.99    | —             | 80             | 55     | 9      | name.com         |
 | the.actor        | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc      |
 | business.actor   | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap        |
