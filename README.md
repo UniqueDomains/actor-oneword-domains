@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .actor one-word domains from Uniqu
 
 **Public extract:** 9,712 rows · **Live catalog:** 9,712 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/actor`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | easy.actor       | available | $19.99    | $58.99        | 128            | 68     | 4      | name.com         |
 | sex.actor        | resell    | —         | —             | 98             | 59     | 3      | GoDaddy.com, LLC |
 | free.actor       | premium   | $82.50    | $82.50        | 88             | 59     | 4      | name.com         |
-| limitless.actor  | available | $19.99    | —             | 80             | 56     | 9      | name.com         |
+| limitless.actor  | available | $19.99    | —             | 80             | 55     | 9      | name.com         |
 | the.actor        | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc      |
 | business.actor   | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap        |
-| alpha.actor      | available | $19.99    | $58.99        | 90             | 54     | 5      | name.com         |
+| alpha.actor      | available | $19.99    | $58.99        | 90             | 53     | 5      | name.com         |
 | data.actor       | resell    | —         | —             | 70             | 56     | 4      | Sav.com, LLC - 8 |
 | art.actor        | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap        |
 | fast.actor       | available | $19.99    | $58.99        | 82             | 53     | 4      | name.com         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
