@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .actor one-word domains from Uniqu
 
 **Public extract:** 9,712 rows · **Live catalog:** 9,712 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/actor`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | alpha.actor      | available | $19.99    | $58.99        | 90             | 53     | 5      | name.com         |
 | data.actor       | resell    | —         | —             | 70             | 56     | 4      | Sav.com, LLC - 8 |
 | art.actor        | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap        |
-| fast.actor       | available | $19.99    | $58.99        | 82             | 53     | 4      | name.com         |
+| true.actor       | available | $19.99    | $58.99        | 86             | 52     | 4      | name.com         |
 | max.actor        | resell    | —         | —             | 70             | 55     | 3      | GoDaddy.com, LLC |
 | abc.actor        | premium   | $1,040    | $1,040        | 102            | 50     | 3      | namecheap        |
-| true.actor       | available | $19.99    | $58.99        | 86             | 52     | 4      | name.com         |
+| fast.actor       | available | $19.99    | $58.99        | 82             | 52     | 4      | name.com         |
 | cannabis.actor   | resell    | —         | —             | 67             | 50     | 8      | Sav.com, LLC     |
 | you.actor        | premium   | $82.50    | —             | 74             | 49     | 3      | name.com         |
-| air.actor        | available | $54.98    | —             | 84             | 49     | 3      | namecheap        |
+| simple.actor     | available | $19.99    | $58.99        | 128            | 49     | 6      | name.com         |
 | sun.actor        | resell    | —         | —             | 78             | 47     | 3      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
