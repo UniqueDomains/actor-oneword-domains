@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .actor one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,687 domains · **Median ask:** $25.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/actor`  
 **Best for:** founders, investors, studios
 
@@ -74,12 +74,12 @@ print(df.head())
 | playin.actor    | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
 | QandA.actor     | available | $54.98    | —             | 80             | 10     | 7      | namecheap |
 | toneup.actor    | available | $19.99    | —             | 80             | 5      | 7      | name.com  |
-| shortcuts.actor | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
+| whynot.actor    | available | $19.99    | —             | 74             | 44     | 7      | name.com  |
 | jobs.actor      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com  |
-| Tools.actor     | available | $54.98    | —             | 56             | 40     | 5      | namecheap |
+| shortcuts.actor | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
 | stories.actor   | premium   | $123.75   | —             | 58             | 36     | 7      | name.com  |
+| Tools.actor     | available | $54.98    | —             | 56             | 40     | 5      | namecheap |
 | videos.actor    | premium   | $82.50    | —             | 52             | 30     | 6      | name.com  |
-| whynot.actor    | available | $19.99    | —             | 74             | 39     | 7      | name.com  |
 | photos.actor    | premium   | $82.50    | —             | 54             | 28     | 6      | name.com  |
 | tokens.actor    | available | $19.99    | —             | 51             | 36     | 6      | name.com  |
 | schools.actor   | premium   | $123.75   | —             | 72             | 24     | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
