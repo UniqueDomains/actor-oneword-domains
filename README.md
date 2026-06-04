@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .actor one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,687 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,687 domains · **Median ask:** $25.83 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,687 domains · **Median ask:** $24.73 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/actor`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.actor      | available | $54.98    | —             | 80             | 5      | 5      | namecheap |
-| Trex.actor      | available | $54.98    | —             | 80             | 24     | 5      | namecheap |
-| barup.actor     | available | $19.99    | —             | 82             | 2      | 6      | name.com  |
-| forces.actor    | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
-| matcha.actor    | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
-| Apples.actor    | available | $54.98    | —             | 90             | 16     | 6      | namecheap |
-| dogsit.actor    | available | $19.99    | —             | 96             | 2      | 6      | name.com  |
-| playin.actor    | available | $19.99    | —             | 80             | 10     | 7      | name.com  |
-| QandA.actor     | available | $54.98    | —             | 80             | 10     | 7      | namecheap |
-| toneup.actor    | available | $19.99    | —             | 80             | 5      | 7      | name.com  |
-| whynot.actor    | available | $19.99    | —             | 74             | 44     | 7      | name.com  |
-| jobs.actor      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com  |
-| shortcuts.actor | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| stories.actor   | premium   | $123.75   | —             | 58             | 36     | 7      | name.com  |
-| Tools.actor     | available | $54.98    | —             | 56             | 40     | 5      | namecheap |
-| videos.actor    | premium   | $82.50    | —             | 52             | 30     | 6      | name.com  |
-| photos.actor    | premium   | $82.50    | —             | 54             | 28     | 6      | name.com  |
-| tokens.actor    | available | $19.99    | —             | 51             | 36     | 6      | name.com  |
-| schools.actor   | premium   | $123.75   | —             | 72             | 24     | 7      | name.com  |
-| Cats.actor      | available | $54.98    | —             | 59             | 33     | 4      | namecheap |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| axial.actor          | available | $19.99    | —             | 86             | 13     | 5      | name.com  |
+| object.actor         | available | $19.99    | —             | 92             | 27     | 6      | name.com  |
+| graph.actor          | available | $19.99    | —             | 92             | 32     | 5      | name.com  |
+| twitter.actor        | available | $19.99    | —             | 108            | 34     | 7      | name.com  |
+| explore.actor        | available | $19.99    | —             | 102            | 41     | 7      | name.com  |
+| austrian.actor       | premium   | $854      | $854          | 82             | 17     | 8      | namesilo  |
+| happybirthday.actor  | available | $19.99    | —             | 116            | 18     | 14     | name.com  |
+| belt.actor           | available | $19.99    | —             | 80             | 16     | 4      | name.com  |
+| overall.actor        | available | $19.99    | —             | 96             | 11     | 7      | name.com  |
+| QueenElizabeth.actor | available | $19.99    | —             | 86             | 6      | 15     | name.com  |
+| allowance.actor      | available | $19.99    | —             | 88             | 8      | 9      | name.com  |
+| absolute.actor       | available | $19.99    | $58.99        | 80             | 30     | 8      | name.com  |
+| beautiful.actor      | available | $19.99    | —             | 104            | 31     | 9      | name.com  |
+| gummybear.actor      | available | $19.99    | —             | 85             | 6      | 10     | name.com  |
+| symbol.actor         | available | $19.99    | —             | 100            | 18     | 6      | name.com  |
+| warp.actor           | available | $19.99    | —             | 90             | 44     | 4      | name.com  |
+| research.actor       | available | $19.99    | —             | 92             | 41     | 8      | name.com  |
+| adoring.actor        | available | $19.99    | $58.99        | 90             | 4      | 7      | name.com  |
+| exec.actor           | available | $19.99    | —             | 91             | 27     | 4      | name.com  |
+| xix.actor            | available | $19.99    | $58.99        | 86             | 14     | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
