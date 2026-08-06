@@ -1,10 +1,10 @@
-# Available .ACTOR One-Word Domains (12,687)
+# Available .ACTOR One-Word Domains (12,690)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C687%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C690%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .actor one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,687 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,690 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,687 domains · **Median ask:** $24.73 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,690 domains · **Median ask:** $22.88 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/actor`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/actor`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ACTOR one-word domain
 
 ### Files
 
-- `actor.csv` — public CSV extract (1,000 rows)
-- `actor.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `actor.csv`, public CSV extract (1,000 rows)
+- `actor.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| axial.actor          | available | $19.99    | —             | 86             | 13     | 5      | name.com  |
-| object.actor         | available | $19.99    | —             | 92             | 27     | 6      | name.com  |
-| graph.actor          | available | $19.99    | —             | 92             | 32     | 5      | name.com  |
-| twitter.actor        | available | $19.99    | —             | 108            | 34     | 7      | name.com  |
-| explore.actor        | available | $19.99    | —             | 102            | 41     | 7      | name.com  |
-| austrian.actor       | premium   | $854      | $854          | 82             | 17     | 8      | namesilo  |
-| happybirthday.actor  | available | $19.99    | —             | 116            | 18     | 14     | name.com  |
-| belt.actor           | available | $19.99    | —             | 80             | 16     | 4      | name.com  |
-| overall.actor        | available | $19.99    | —             | 96             | 11     | 7      | name.com  |
-| QueenElizabeth.actor | available | $19.99    | —             | 86             | 6      | 15     | name.com  |
-| allowance.actor      | available | $19.99    | —             | 88             | 8      | 9      | name.com  |
-| absolute.actor       | available | $19.99    | $58.99        | 80             | 30     | 8      | name.com  |
-| beautiful.actor      | available | $19.99    | —             | 104            | 31     | 9      | name.com  |
-| gummybear.actor      | available | $19.99    | —             | 85             | 6      | 10     | name.com  |
-| symbol.actor         | available | $19.99    | —             | 100            | 18     | 6      | name.com  |
-| warp.actor           | available | $19.99    | —             | 90             | 44     | 4      | name.com  |
-| research.actor       | available | $19.99    | —             | 92             | 41     | 8      | name.com  |
-| adoring.actor        | available | $19.99    | $58.99        | 90             | 4      | 7      | name.com  |
-| exec.actor           | available | $19.99    | —             | 91             | 27     | 4      | name.com  |
-| xix.actor            | available | $19.99    | $58.99        | 86             | 14     | 3      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| just.actor  | available | $19.99    | —             | high           | medium | 4      | name.com  |
+| age.actor   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| gay.actor   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
+| ain.actor   | available | $9.48     | $54.98        | low            | low    | 3      | namecheap |
+| mom.actor   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| ane.actor   | available | $9.48     | $54.98        | low            | low    | 3      | namecheap |
+| set.actor   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| bow.actor   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| top.actor   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
+| bus.actor   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| cast.actor  | premium   | $82.50    | —             | medium         | low    | 4      | name.com  |
+| cxl.actor   | available | $9.48     | $54.98        | low            | low    | 3      | namecheap |
+| east.actor  | premium   | $123.75   | $123.75       | high           | low    | 4      | name.com  |
+| far.actor   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| jack.actor  | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo  |
+| hug.actor   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| join.actor  | premium   | $854      | $854          | high           | medium | 4      | namesilo  |
+| ive.actor   | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| bruce.actor | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo  |
+| lap.actor   | available | $19.99    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,687 live domains                        |
+| 1,000-row public sample | 12,690 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .actor domain names. It includes keyword-led names like girls.actor and homes.actor, broader terms like finals.actor and forces.actor, and brand-style options such as Acup.actor and Trex.actor. For founders, the main question is whether a .actor ending helps the name feel specific, memorable, and easy to explain. For investors, the key test is whether the word before .actor is strong enough to support resale despite the niche extension. With a median ask of 25.83, price discipline matters less than fit, clarity, and how naturally the full domain reads aloud.
+This list is built entirely from the .actor TLD, covering 12,690 one-word domain names. Most are available outright, with a smaller premium and resell segment mixed in. Pricing skews low across the set, with the vast majority asking under $500, which keeps the entry cost accessible whether you're evaluating for resale potential or picking a name to launch on.
 
-- All domains in this set use the .actor extension
-- Median ask across the selection is 25.83
-- Best picks read cleanly as full two-part brands
-- Check niche fit, clarity, and trademark exposure
+- 12,690 one-word .actor domains, median ask ~$23
+- 11,569 domains priced under $500
+- 12,340 listed as available, 322 as premium
+- Only 12 domains show mid-to-high demand scores
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
