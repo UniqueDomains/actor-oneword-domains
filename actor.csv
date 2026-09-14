@@ -624,7 +624,7 @@ feb88d27-edee-4f22-a902-c20a27e827e1,primary.actor,available,19.99,,high,low,7,n
 c22b1e98-946e-459c-aa65-9f307542adc7,delayed.actor,available,19.99,58.99,medium,low,7,name.com,,
 66a084e3-ea68-47c6-8eee-7cdc6b11202a,far.actor,available,19.99,,high,low,3,name.com,,
 5f824358-7141-4fc1-bfae-238acd6351c2,patient.actor,available,19.99,,medium,low,7,name.com,,
-f1ca93a2-c756-4601-9021-298d5d3f1dac,age.actor,available,19.99,,high,low,3,name.com,,
+f1ca93a2-c756-4601-9021-298d5d3f1dac,age.actor,available,9.48,54.98,medium,low,3,namecheap,,
 ed4ca058-56d4-4e0a-9cdf-0f5cd3188a92,airfilled.actor,available,9.48,54.98,low,low,10,namecheap,,
 44ab618b-335b-47b6-9421-24b660d80c3f,pollen.actor,available,19.99,,high,low,6,name.com,,
 3bfb6517-5797-4eb1-b927-84ea9725d878,asset.actor,available,9.48,54.98,medium,low,5,namecheap,,
