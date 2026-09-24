@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .actor one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,140 domains · **Median ask:** $15.55 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/actor`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,8 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| just.actor  | available | $19.99    | —             | high           | medium | 4      | name.com  |
 | age.actor   | available | $16.99    | $44.49        | medium         | low    | 3      | namesilo  |
-| gay.actor   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
+| gay.actor   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo  |
 | ain.actor   | available | $9.48     | $54.98        | low            | low    | 3      | namecheap |
 | mom.actor   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
 | ane.actor   | available | $9.48     | $54.98        | low            | low    | 3      | namecheap |
@@ -84,6 +83,7 @@ print(df.head())
 | ive.actor   | available | $19.99    | —             | medium         | low    | 3      | name.com  |
 | bruce.actor | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo  |
 | lap.actor   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| video.actor | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACTOR One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
